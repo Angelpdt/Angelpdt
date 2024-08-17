@@ -76,7 +76,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,html,css,ts,azure,js,linux,py,github,discord,vscode,visualstudio,dotnet,postman,mongodb,docker,cpp,cs,arduino,raspberrypi,kali,notion" />
+    <img src="https://skillicons.dev/icons?i=angular,ts,js,dotnet,cs,azure,html,css,mongodb,docker,github,linux,visualstudio,vscode,py,cpp,arduino,raspberrypi,postman,discord,kali,notion" />
   </a>
 </p>
 
