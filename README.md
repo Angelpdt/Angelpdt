@@ -10,10 +10,11 @@
 
 <!--- snake -->
 <!--- snake -->
+<!-- Snake Animation -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </div>
+
 
 
 <!--h2 without bottom border-->
