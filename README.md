@@ -44,12 +44,12 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=your_github_username&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Angel streak" src="https://github-readme-streak-stats.herokuapp.com/?user=your_github_username&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Angel streak" src="https://github-readme-streak-stats.herokuapp.com/?Angelpdt&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=your_github_username&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Angelpdt&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -59,7 +59,7 @@
 <!--- trophy (start) -->
 <div align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=your_github_username&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Angelpdt&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 <!--- trophy (start) -->
@@ -76,7 +76,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,ts,azure,js,html,css,linux,discord,git,vscode,visualstudio,dotnet,postman,mongodb,docker,cpp,kali,notion,py" />
+    <img src="https://skillicons.dev/icons?i=angular,html,css,ts,azure,js,linux,py,git,discord,vscode,visualstudio,dotnet,postman,mongodb,docker,cpp,kali,notion" />
   </a>
 </p>
 
